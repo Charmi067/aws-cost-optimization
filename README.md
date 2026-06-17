@@ -7,11 +7,11 @@
 ## 📸 Screenshots
 
 ### Lambda Function — Live Execution
-![Lambda Function Execution](./screenshots/lambda_execution.jpeg)
+![Lambda Function Execution](.lambda-function.jpeg)
 > *Real execution log showing snapshot `snap-0a1920f1e46646372` deleted as its associated volume was not attached to any running instance. Duration: 821ms, Memory: 101MB.*
 
 ### EventBridge Scheduler — Enabled & Running
-![EventBridge Scheduler](./screenshots/eventbridge_scheduler.jpeg)
+![EventBridge Scheduler](.Event-Scheduler.jpeg)
 > *EventBridge Scheduler `ebs-snapshots-lambda` configured and enabled, targeting the Lambda function on a recurring schedule. Timezone: Asia/Calcutta.*
 
 ---
